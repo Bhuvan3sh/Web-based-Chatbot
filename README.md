@@ -10,8 +10,8 @@ This open-source framework is designed to help you build your own intelligent ch
 **Step 2:** Go to line 28 in app.py and replace '<INSER_HERE>' with the context based on with you want your conversation should start.<br>
 **Step 3:** Go to line 189 in index.html and replace 'YOUR_BOT_NAME' with with your bot's name.<br>
 **Step 4:** Go to Line 192 in index.html and replace '<INITIAL_TEXT>' with the introductory text with you want the bot to show at the initiation of the web app chat.<br>
-**Step 5:** Most important part if you skip your bot would'nt work, adding the API key, so as you have understood This chatbot is built.<br>
-                GO to <a href='https://aistudio.google.com/app/apikey'>aistdio.com</a> and then generate a key ![image](https://github.com/user-attachments/assets/dc7ec17b-1c9c-4e1a-b52e-92306e1cea95)<br>
+**Step 5:** Most important part if you skip your bot would'nt work, adding the API key, so as you have understood This chatbot is built.<br><br>
+                GO to <a href='https://aistudio.google.com/app/apikey'> aistdio.google.com</a> and then generate a key ![image](https://github.com/user-attachments/assets/dc7ec17b-1c9c-4e1a-b52e-92306e1cea95)<br>
                 You might have to create a project for getting an API key, you can create a project by going to cloud.google.com<br>
                 Once you have the API key, go-a-head grab it and then paste it into the line 9 of app.py in place of 'YOUR_API_KEY'.<br>
 
