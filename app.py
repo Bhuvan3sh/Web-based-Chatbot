@@ -1,12 +1,14 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import google.generativeai as genai
+from dotenv import load_dotenv
+import os
 
 app = Flask(__name__)
 CORS(app)  # Allow CORS for all origins during development
 
 # Set the API key for Google Generative AI
-api_key = "YOUR_API_KEY"
+api_key = os.getenv('API_KEY')
 genai.configure(api_key=api_key)
 
 BOT_NAME = "YOUR_BOT_NAME"
