@@ -14,7 +14,7 @@ This open-source framework is designed to help you build your own intelligent ch
                 GO to <a href='https://aistudio.google.com/app/apikey'> aistudio.google.com</a> and then generate a key ![image](https://github.com/user-attachments/assets/dc7ec17b-1c9c-4e1a-b52e-92306e1cea95)<br>
                 You might have to create a project for getting an API key, you can create a project by going to cloud.google.com<br>
                 Once you have the API key, go-a-head grab it.<br>
-** Step 6:** After copying the API key, run 'python3 API_KEY.py' just paste the API Key when it asks you. Now, you are ready to rock.
+**Step 6:** After copying the API key, run 'python3 API_KEY.py' just paste the API Key when it asks you. Now, you are ready to rock.
 
 <u>After doing the above you can go a head to install the dependencies and perform the usage of the web based chatbot you just created.</u>
 
