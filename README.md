@@ -24,7 +24,10 @@ This open-source framework is designed to help you build your own intelligent ch
   ```bash
      pip install requirments.txt
    ```
-
+2. **Copy the API key and run this**
+```bash
+   python3 API_KEY.py
+```
 2. **Run the app.py file**
 ```bash
      python app.py
