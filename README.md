@@ -22,7 +22,7 @@ This open-source framework is designed to help you build your own intelligent ch
 ## Installation and usage
 1. **Install requirments.txt**
   ```bash
-     pip install requirments.txt
+     pip install -r requirments.txt
    ```
 2. **Copy the API key and run this**
 ```bash
